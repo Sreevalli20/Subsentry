@@ -8,9 +8,10 @@ This project exists because of your time, effort, and curiosity.
 
 ## 👥 Contributors List
 
-- **Name:** Your Name
-- **GitHub:** https://github.com/your-username
-- **About:** Short description about yourself
+- **Name:** Kommavarapu Kameswari Sreevalli  
+- **GitHub:** https://github.com/Sreevalli20  
+- **About:** BTech CSE student interested in open source and full stack development.
+
 
 ---
 
